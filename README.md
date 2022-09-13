@@ -1,7 +1,9 @@
-# Tauri + Svelte + Typescript
+# Cursor Effects Desktop
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+Still WIP. Performance is critically low.
 
-## Recommended IDE Setup
+https://user-images.githubusercontent.com/20166026/189951096-fdb002b2-5c3d-4833-904b-5ac9c52ba9e5.mp4
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+- [ ] Use Tauri event
+- [ ] Use WinAPI mouse event
+- [ ] UI for changing styles
